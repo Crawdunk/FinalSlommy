@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 997b9d83368e63b40a4e9a90fb9ab8de
+  - enabled: 1
+    path: Assets/Scenes/A1L1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/A1L2.unity
+    guid: 9a43ff34e659e784b8657d6ad511ffdc
+  - enabled: 1
+    path: Assets/Scenes/A1L3.unity
+    guid: 08c41135ed29a7744ac75779e6a38839
+  - enabled: 1
+    path: Assets/Scenes/A1L4.unity
+    guid: 522f5282ee9fbe14d92c400962d35080
+  - enabled: 1
+    path: Assets/Scenes/Triple Jump 1.unity
+    guid: c319c8cc0c6565648bfaa913f55e0012
+  - enabled: 1
+    path: Assets/Scenes/A1L5.unity
+    guid: ab415821bd7c6a7418daa2bd644b1944
+  - enabled: 1
+    path: Assets/Scenes/Enraged Slime.unity
+    guid: 8ae142af3f0ac3a46a7e8465bceab0e5
+  - enabled: 1
+    path: Assets/Scenes/A2L1.unity
+    guid: befebcddde49a554ba3935c228343973
+  - enabled: 1
+    path: Assets/Scenes/A2L2.unity
+    guid: c6487ce4490ad154b98afe0fe2896cc3
+  - enabled: 1
+    path: Assets/Scenes/A2L3.unity
+    guid: 7454512578f129d4ca65f99837e786da
+  - enabled: 1
+    path: Assets/Scenes/High Jumpgrade.unity
+    guid: 7654682d421cb984a812ca24e3563539
+  - enabled: 1
+    path: Assets/Scenes/A2L4.unity
+    guid: aeb19379169ae9a458f13f73f4255829
+  - enabled: 1
+    path: Assets/Scenes/AllSee.unity
+    guid: 49f10eca1b468774994dc09c32c5abf2
+  - enabled: 1
+    path: Assets/Scenes/A3L1.unity
+    guid: 458d1f002f1463e4e83ab1c5e8fba3c3
+  - enabled: 1
+    path: Assets/Scenes/A3L2.unity
+    guid: 2c6d631b905cedf4581423a6db0720fa
+  - enabled: 1
+    path: Assets/Scenes/A3L3.unity
+    guid: 565c12624b9e50440a13a4a555152f16
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: c6f84506eabc83d45b9a1609c5679ca3
+  m_configObjects: {}
